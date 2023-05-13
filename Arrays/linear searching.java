@@ -1,3 +1,4 @@
+/* this program is for searching an element x present in array arr */
 public class Main
 {
 	public static void main(String[] args) {
